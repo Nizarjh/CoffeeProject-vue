@@ -1,11 +1,11 @@
 <template>
-    <section class="promo-section" aria-labelledby="promo-title">
+    <div class="promo-section" aria-labelledby="promo-title">
         <div class="promo-content">
             <h2 id="promo-title">Get a chance to have an amazing morning</h2>
             <p>We are giving you a one-time opportunity to experience a better life with coffee.</p>
             <BaseButton href="#menu">Order now</BaseButton>
         </div>
-    </section>
+    </div>
 </template>
 
 <script>
